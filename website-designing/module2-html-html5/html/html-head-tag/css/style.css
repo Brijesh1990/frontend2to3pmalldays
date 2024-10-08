@@ -1,0 +1,17 @@
+body
+{
+    background-color: lightslategray;
+}
+h1 
+{
+    font-size: 65px;
+    color: white;
+    text-align: center;
+}
+
+hr 
+{
+    width: 25%;
+    height: auto;
+    border: solid 2px white;
+}
